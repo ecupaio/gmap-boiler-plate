@@ -1,0 +1,26 @@
+{
+    "results": [
+        {
+            "address": "4226 Frank St",
+            "city": "Dallas",
+            "state": "TX",
+            "zip": "75210",
+            "lat": "32.773678",
+            "lng": "-96.747150"
+        },
+        {
+            "address": "1825 W 35th St",
+            "city": "Los Angeles",
+            "state": "CA",
+            "zip": "90018",
+            "lat": "34.024808",
+            "lng": "-118.312881"
+        },
+        {
+            "address": "318 Bryant St NE",
+            "city": "Washington",
+            "state": "DC",
+            "zip": "20002"
+        }
+    ]
+}
